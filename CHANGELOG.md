@@ -17,10 +17,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Support for new image formats (WebP, AVIF)
 - Batch processing capabilities
 - Advanced filtering options
+- AI-powered image upscaling via the new `/upscale` endpoint
 
 ### Changed
 - Improved image compression algorithms
 - Updated API documentation
+- Updated Pillow dependency to version 10.2.0
 
 ### Fixed
 - Memory leak in image resizing operations
